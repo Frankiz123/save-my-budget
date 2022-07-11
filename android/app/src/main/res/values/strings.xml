@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaveMyBudget</string>
+    <string name="facebook_app_id">1217391198699765</string>
+    <string name="fb_login_protocol_scheme">fb1217391198699765</string>
+</resources>
